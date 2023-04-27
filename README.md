@@ -1,5 +1,5 @@
 welcome to my github<br />
-currently learning c, asm, maldev, re
+currently learning asm, re, binex, exploit dev.
 
 telegram - @dev_wyvn<br />
 twitter  - @0xwyvn<br />
